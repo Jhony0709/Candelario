@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: b96e9bfe3d3e0ff4a8a48cf089daccde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1742823938535140518
+    second: palomas_0
+  - first:
+      213: -5763126511254978202
+    second: palomas_1
+  - first:
+      213: -3740241389896357829
+    second: palomas_2
+  - first:
+      213: 7006474229749177541
+    second: palomas_3
+  - first:
+      213: 3596322718677440013
+    second: palomas_4
+  - first:
+      213: 3384889910997023176
+    second: palomas_5
+  - first:
+      213: 2609281003923745697
+    second: palomas_6
+  - first:
+      213: -8985793425966050639
+    second: palomas_7
+  - first:
+      213: 3447428198376101059
+    second: palomas_8
+  - first:
+      213: 1000147196033406231
+    second: palomas_9
+  - first:
+      213: 553963077351476365
+    second: palomas_10
+  - first:
+      213: 1197152370467262672
+    second: palomas_11
+  - first:
+      213: 6016007096470621923
+    second: palomas_12
+  - first:
+      213: 5888148952519571553
+    second: palomas_13
+  - first:
+      213: -5155796012196423642
+    second: palomas_14
+  - first:
+      213: -3064738955260964187
+    second: palomas_15
+  - first:
+      213: 2823008830528453718
+    second: palomas_16
+  - first:
+      213: -5922444650264966771
+    second: palomas_17
+  - first:
+      213: 6591324295168068513
+    second: palomas_18
+  - first:
+      213: 5463796305337313298
+    second: palomas_19
+  - first:
+      213: 1191009063097736776
+    second: palomas_20
+  - first:
+      213: 6341063679059014389
+    second: palomas_21
+  - first:
+      213: -1483236546730879532
+    second: palomas_22
+  - first:
+      213: 8931030256633563207
+    second: palomas_23
+  - first:
+      213: -3546853269397689392
+    second: palomas_24
+  - first:
+      213: 8350784847670869659
+    second: palomas_25
+  - first:
+      213: -3111660443620706785
+    second: palomas_26
+  - first:
+      213: -1543554381981607183
+    second: palomas_27
+  - first:
+      213: 2868523656236578501
+    second: palomas_28
+  - first:
+      213: -6934937401076056855
+    second: palomas_29
+  - first:
+      213: 2503693384982829595
+    second: palomas_30
+  - first:
+      213: 4892067580517369882
+    second: palomas_31
+  - first:
+      213: -3988947289831896167
+    second: palomas_32
+  - first:
+      213: -2206154690548931876
+    second: palomas_33
+  - first:
+      213: 1586841523563379206
+    second: palomas_34
+  - first:
+      213: -7307690525965419324
+    second: palomas_35
+  - first:
+      213: -3276445100443612660
+    second: palomas_36
+  - first:
+      213: 1029362336408579346
+    second: palomas_37
+  - first:
+      213: 3956835490377618295
+    second: palomas_38
+  - first:
+      213: -3533548679170604517
+    second: palomas_39
+  - first:
+      213: 3953442304678735165
+    second: palomas_40
+  - first:
+      213: -8712485595933214617
+    second: palomas_41
+  - first:
+      213: -5013520691108711090
+    second: palomas_42
+  - first:
+      213: -1523551990219056717
+    second: palomas_43
+  - first:
+      213: 6712723519573658584
+    second: palomas_44
+  - first:
+      213: 755844729039162510
+    second: palomas_45
+  - first:
+      213: -4432522696627314956
+    second: palomas_46
+  - first:
+      213: 3068717279206251703
+    second: palomas_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: palomas_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d09d9cde30d7e0800000000000000
+      internalID: -1742823938535140518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 339
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c20de8f24500b0800000000000000
+      internalID: -5763126511254978202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 340
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a305c54ef71cc0800000000000000
+      internalID: -3740241389896357829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd028a03ffb3160800000000000000
+      internalID: 7006474229749177541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 339
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069f606574b8e130800000000000000
+      internalID: 3596322718677440013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 340
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f7cca07b89fe20800000000000000
+      internalID: 3384889910997023176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 290
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abac0e9f37063420800000000000000
+      internalID: 2609281003923745697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 289
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d044ec7c0c4380800000000000000
+      internalID: -8985793425966050639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 290
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45fd06ea9b7df20800000000000000
+      internalID: 3447428198376101059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 290
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159ca6639c31ed00800000000000000
+      internalID: 1000147196033406231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 289
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c873cdb7210b700800000000000000
+      internalID: 553963077351476365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 290
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d7b7fcb32d9010800000000000000
+      internalID: 1197152370467262672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 242
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4c5f74962d7350800000000000000
+      internalID: 6016007096470621923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 241
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168748b8648e6b150800000000000000
+      internalID: 5888148952519571553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 242
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62818aee7dee278b0800000000000000
+      internalID: -5155796012196423642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 242
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25e5a682cd775d0800000000000000
+      internalID: -3064738955260964187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 241
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c707d03975d2720800000000000000
+      internalID: 2823008830528453718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 242
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d894b0318ff3fcda0800000000000000
+      internalID: -5922444650264966771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab05ec2686197b50800000000000000
+      internalID: 6591324295168068513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 194
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e8b09acd43db40800000000000000
+      internalID: 5463796305337313298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1632ce60578010800000000000000
+      internalID: 1191009063097736776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b178d1dbfff750800000000000000
+      internalID: 6341063679059014389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 194
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59a32283c7a6be0800000000000000
+      internalID: -1483236546730879532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748c8e423b461fb70800000000000000
+      internalID: 8931030256633563207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db2e175ebb07cec0800000000000000
+      internalID: -3546853269397689392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 148
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef2291392f3e370800000000000000
+      internalID: 8350784847670869659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167a54105921d4d0800000000000000
+      internalID: -3111660443620706785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1d7ab771349ae0800000000000000
+      internalID: -1543554381981607183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 148
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c639c7311b0fc720800000000000000
+      internalID: 2868523656236578501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7a453d2722cf90800000000000000
+      internalID: -6934937401076056855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a95665ed7eeb220800000000000000
+      internalID: 2503693384982829595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1841f19b8d14e340800000000000000
+      internalID: 4892067580517369882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b00d1039964a8c0800000000000000
+      internalID: -3988947289831896167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2e4466ff92261e0800000000000000
+      internalID: -2206154690548931876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab5de45f7950610800000000000000
+      internalID: 1586841523563379206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 96
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf7573f2ed59a90800000000000000
+      internalID: -7307690525965419324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a4dfd5a8ab782d0800000000000000
+      internalID: -3276445100443612660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dacc65797094e00800000000000000
+      internalID: 1029362336408579346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773dd9e0ae089e630800000000000000
+      internalID: 3956835490377618295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124c75a23056fec0800000000000000
+      internalID: -3533548679170604517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da06274d27dd630800000000000000
+      internalID: 3953442304678735165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 48
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76871bfd288071780800000000000000
+      internalID: -8712485595933214617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f4648e756c6ab0800000000000000
+      internalID: -5013520691108711090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9572a79814bdae0800000000000000
+      internalID: -1523551990219056717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db099bb972682d50800000000000000
+      internalID: 6712723519573658584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c0bb3c6cc4d7a00800000000000000
+      internalID: 755844729039162510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1ca887148c72c0800000000000000
+      internalID: -4432522696627314956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palomas_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc113f4b16469a20800000000000000
+      internalID: 3068717279206251703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
